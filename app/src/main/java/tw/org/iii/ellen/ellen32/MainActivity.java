@@ -1,4 +1,5 @@
 package tw.org.iii.ellen.ellen32;
+//Sensor感應器(水平儀)
 
 import androidx.appcompat.app.AppCompatActivity;
 
